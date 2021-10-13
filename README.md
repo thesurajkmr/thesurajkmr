@@ -4,7 +4,7 @@ I am a  Final Year Undergraduate pursuing B.Tech in Computer Science and Enginee
 </p>
 
 <p>
-<a href="https://thesurajkmr.github.io/thesurajkmr/" target="_blank">Check Out My Portfolio</a> 
+<a href="https://thesurajkmr.github.io" target="_blank">Check Out My Portfolio</a> 
 </p>
 <h2>Quick Guide to Projects:-</h2>
 <ul>
