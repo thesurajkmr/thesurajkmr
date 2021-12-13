@@ -8,6 +8,9 @@ I am a  Final Year Undergraduate pursuing B.Tech in Computer Science and Enginee
 </p>
 <h2>Quick Guide to Projects:-</h2>
 <ul>
+    <li>
+  <a href="https://github.com/thesurajkmr/DevVerse" target="_blank">DevVerse</a>
+  </li>
   <li>
   <a href="https://gangawaterproject.herokuapp.com/" target="_blank">Know Your Water Quality using Decision Tree Classifier</a>
   </li>
